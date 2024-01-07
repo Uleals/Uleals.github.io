@@ -1078,13 +1078,17 @@ padding-bottom: 40px;
 .contact-info{
     width: 40%;
     height: 500px;
-    background: url(images/contact-back.png);
+    background-color: #202020;
     background-position: center;
     background-size: cover;
     border-radius: 16px;
     margin-bottom: 50px;
     position: relative;
     overflow: hidden;
+}
+.contact-info:hover{
+ background-color: #bb0035;
+ 
 }
 .contact-info::before{
     content: "";
