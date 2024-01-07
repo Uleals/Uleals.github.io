@@ -1078,7 +1078,7 @@ padding-bottom: 40px;
 .contact-info{
     width: 40%;
     height: 500px;
-    background-color: #c70039;
+    background: url(image/contact-back.png);
     background-position: center;
     background-size: cover;
     border-radius: 16px;
