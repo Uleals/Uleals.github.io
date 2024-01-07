@@ -1076,7 +1076,8 @@ padding-bottom: 40px;
     justify-content: center;
 }
 .contact-info{
-    padding:40px 500px;
+    width: 40%;
+    height: 500px;
     background:#BB0035;
     opacity: .8;
     margin: 20px;
