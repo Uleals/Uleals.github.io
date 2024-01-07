@@ -1078,14 +1078,13 @@ padding-bottom: 40px;
 .contact-info{
     width: 40%;
     height: 500px;
-    background: url(../images/contact-back.png);
+    background: url(../images/contact-back.jpg);
     background-position: center;
     background-size: cover;
     border-radius: 16px;
     margin-bottom: 50px;
     position: relative;
     overflow: hidden;
-
 }
 .contact-info::before{
     content: "";
