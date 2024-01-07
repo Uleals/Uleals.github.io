@@ -1078,17 +1078,16 @@ padding-bottom: 40px;
 .contact-info{
     width: 40%;
     height: 500px;
-    background-color: #202020;
-    background-position: center;
-    background-size: cover;
-    border-radius: 16px;
-    margin-bottom: 50px;
-    position: relative;
-    overflow: hidden;
+    background:#BB0035;
+    opacity: .8;
+    margin: 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 8px;
+    transition: all .4s ease;
 }
 .contact-info:hover{
- background-color: #bb0035;
- 
+  opacity: 1; 
 }
 .contact-info::before{
     content: "";
